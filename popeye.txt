@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 El marino soy y me gusta comer espinaca
+=======
+editado por juan jaramillo
+>>>>>>> e87a074884fc171c5e0c18c007ef6deb5d202542
