@@ -1,0 +1,3 @@
+gomita
+gomagoma
+adios
